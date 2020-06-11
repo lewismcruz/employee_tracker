@@ -18,9 +18,14 @@ Let the Employee Tracker simplify interaction with your databases.
 ![A SQL Query script](https://github.com/lewismcruz/employee_tracker/blob/master/sqlquery.png)
 
 ## Steps to use this application
-1.
-2.
-3.
+1. This application can be run from any Windows or Mac computer running the latest version of Node.js.
+   Simply enter the following at a terminal prompt on a computer that has the application and supporting files installed:
+   node employeetrack
+2. Several options for interacting with the business database.
+3. Options can be selected by moving the up or down arrow key and pressing the enter key to select the option presented.
+
+![Terminal Prompt Selectors for Employee Tracker](https://github.com/lewismcruz/employee_tracker/blob/master/runningemployeetrack.png)
+
 4. To disconnect from the application, select the "DISCONNECT" option.
 
 ![Disconnecting from Employee Tracker app](https://github.com/lewismcruz/employee_tracker/blob/master/disconnectdb.png)
